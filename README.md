@@ -1,4 +1,4 @@
-# OpenProcSim — Simulador Abierto de Procesos Industriales. Desarrollador principal: Juan Carlos Molina Molina. Profesor de Formación Profesional. Especialidad Instalaciones Electrotécnicas
+# OpenProcSim — Simulador Abierto de Procesos Industriales. 
 [https://portalinvestigacion.upct.es/investigadores/276036/detalle](https://portalinvestigacion.upct.es/investigadores/276036/detalle)
 [www.linkedin.com/in/juan-carlos-molina-molina-234761348](www.linkedin.com/in/juan-carlos-molina-molina-234761348)
 
@@ -49,4 +49,5 @@ Incluye ejemplos básicos y documentación para la puesta en marcha.
 Para consultas, propuestas o colaboración con el proyecto, puedes escribir a:
 
 **juancarlosmolina.docencia@gmail.com**
+Desarrollador principal: Juan Carlos Molina Molina. Profesor de Formación Profesional. Especialidad Instalaciones Electrotécnicas
 
