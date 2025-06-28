@@ -46,9 +46,13 @@ Incluye ejemplos básicos y documentación para la puesta en marcha.
 Para consultas, propuestas o colaboración con el proyecto, puedes escribir a:
 
 **juancarlosmolina.docencia@gmail.com**
+**juancarlos.molina2@murciaeduca.es**
+
 Desarrollador principal: Juan Carlos Molina Molina. 
+
 Profesor de Formación Profesional. Especialidad Instalaciones Electrotécnicas 
-Investigador Universidad Politécnica de Cartagena (2010-2022)
+
+Investigador Universidad Politécnica de Cartagena. Departamento: Automática, Ingeniería Eléctrica y Tecnología Electrónica (2010-2022)
 
 [https://portalinvestigacion.upct.es/investigadores/276036/detalle](https://portalinvestigacion.upct.es/investigadores/276036/detalle)
 
