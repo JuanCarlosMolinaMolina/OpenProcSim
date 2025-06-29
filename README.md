@@ -38,6 +38,7 @@ Necesario instalar Labview (última versión, 32 bits, versión gratuita)
 https://www.ni.com/es/support/downloads/software-products/download.labview-runtime.html#559046
 
 [Descargar código_fuente](OpenProcSim%20v0.1.zip)
+Nota: en el enlace, pulsar en la flecha abajo, en la esquina superior derecha "Download Raw File".
 
 Descomprimir el archivo y abrirlo desde Labview. 
 En próximas versiones se entregará un ejecutable e instalador.
