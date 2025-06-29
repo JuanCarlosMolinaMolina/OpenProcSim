@@ -1,4 +1,4 @@
-# OpenProcSim — Simulador Abierto de Procesos Industriales. 
+# OpenProcSim — Simulador de Procesos Industriales y escenarios de código abierto. 
 
 **OpenProcSim** es una herramienta de simulación de procesos industriales, desarrollada en **LabVIEW** y orientada a la docencia en **Formación Profesional**. Su objetivo es ofrecer una alternativa **libre, gratuita y de código abierto** a los simuladores comerciales, especialmente adaptada a **equipos con recursos limitados** y a la realidad de los centros educativos.
 
