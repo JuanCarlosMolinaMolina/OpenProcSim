@@ -34,8 +34,13 @@ Este proyecto tiene vocación colaborativa. Se busca construir una comunidad doc
 ## Descarga y documentación
 
 Incluye ejemplos básicos y documentación para la puesta en marcha.
-Necesario instalar Labview Runtime
+Necesario instalar Labview (última versión, 32 bits, versión gratuita)
 https://www.ni.com/es/support/downloads/software-products/download.labview-runtime.html#559046
+
+[Descargar código_fuente](OpenProcSim%20v0.1.zip)
+
+Descomprimir el archivo y abrirlo desde Labview. 
+En próximas versiones se entregará un ejecutable e instalador.
 
 
 ## A quién va dirigido
