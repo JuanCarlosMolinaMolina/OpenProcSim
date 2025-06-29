@@ -27,8 +27,8 @@ Este proyecto tiene vocación colaborativa. Se busca construir una comunidad doc
 ![Vista de OpenProcSim](Screenshot_2.jpg)
 ![Vista de OpenProcSim](Screenshot_3.jpg)
 ![Vista de OpenProcSim](Screenshot_1.jpg)
-![Vista de OpenProcSim](Captura OpenProcSim.jpg)
-![Vista de OpenProcSim](Captura OpenProcSim 2.jpg)
+![Vista de OpenProcSim](CapturaOpenProcSim.jpg)
+![Vista de OpenProcSim](CapturaOpenProcSim2.jpg)
 
 
 ## Descarga y documentación
