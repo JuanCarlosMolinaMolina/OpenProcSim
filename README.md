@@ -34,6 +34,9 @@ Este proyecto tiene vocación colaborativa. Se busca construir una comunidad doc
 ## Descarga y documentación
 
 Incluye ejemplos básicos y documentación para la puesta en marcha.
+Necesario instalar Labview Runtime
+https://www.ni.com/es/support/downloads/software-products/download.labview-runtime.html#559046
+
 
 ## A quién va dirigido
 
